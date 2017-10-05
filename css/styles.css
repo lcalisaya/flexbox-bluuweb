@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	font-family: 'Mukta', 'Source Sans Pro', sans-serif;
+}
+
 .padre {
 	display: flex;
 	flex-flow: column nowrap;

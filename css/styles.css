@@ -14,7 +14,10 @@ body {
 }
 
 .header {
-	background-color: black;
+	background-image: url(../images/fellows.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
 	display: flex;
 	flex-flow: column nowrap;
 }
